@@ -1,0 +1,6 @@
+{
+    "Description": "以下三个值 key名 即阿里云鉴权所需的参数名，具体的值，请通过阿里云控制台获取",
+    "accessKeyId":"",
+    "accessKeySecret":"",
+    "appKey":""
+}
