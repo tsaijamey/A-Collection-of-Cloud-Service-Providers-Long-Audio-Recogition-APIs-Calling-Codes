@@ -22,5 +22,5 @@
         `#define MAXSTRING 1000000`
 - SCTK的使用：
     - 系统要求：Linux / wsl
-    - 命令参数：  
+    - shell命令与参数：  
     `$ > python3 sclite_score_info_modified.py --ref <参考文本的路径> --hyp <识别文本的路径> --tool <当前路径下/SCTK/bin/sclite> --outdir <输出评分结果的目录路径>`
