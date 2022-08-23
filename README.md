@@ -10,7 +10,7 @@
 - 此sdk依赖Microsoft Visual C++ 14.0或更高版本
     - 相关工具下载：https://visualstudio.microsoft.com/zh-hant/visual-cpp-build-tools/
 
-# 使用
+# 语音转写(识别接口)的使用
 - 阿里云  
 阿里云的服务接口只支持读取文件url（其他云服务商大多也是这样，讯飞除外），因此需要预先将文件传到某个服务器的www位置，确保外网可访问。当然也可以直接使用某个云服务商的存储服务。  
 每个数据集各自生成一份存储其下所有文件url的txt格式文件，每个url一行。  
@@ -20,7 +20,7 @@
 - 参数1：存储链接的文件地址
 - 参数2：你指定的工作目录
 
-# SCTK使用说明
+# 打分(SCTK使用说明)
 - SCTK来源：
     - REPO：https://github.com/usnistgov/SCTK
     - 源码所有权归属该作者所有
