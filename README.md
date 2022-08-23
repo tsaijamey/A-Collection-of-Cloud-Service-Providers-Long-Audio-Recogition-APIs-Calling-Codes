@@ -5,7 +5,7 @@
 
 # 使用前的必要安装
 每一家云服务商都有自己的sdk库，相应的sdk库并不包含在本项目中，需要自行安装。
-- 阿里云SDK安装
+- 阿里云SDK安装  
 `pip install aliyunsdkcore`
 - 此sdk依赖Microsoft Visual C++ 14.0或更高版本
     - 相关工具下载：https://visualstudio.microsoft.com/zh-hant/visual-cpp-build-tools/
